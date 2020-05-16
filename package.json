@@ -1,0 +1,13 @@
+{
+  "name": "@hh-deal/monorepo",
+  "private": true,
+  "repository": "git@github.com:smehdii/hh-deal.git",
+  "author": "Siddik Mehdi <siddik.mehdi@gmail.com>",
+  "workspaces": [
+      "packages/*"
+  ],
+
+  "devDependencies": {
+    "lerna": "^3.15.0"
+  }
+}
